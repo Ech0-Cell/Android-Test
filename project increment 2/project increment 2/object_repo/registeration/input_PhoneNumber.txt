@@ -1,0 +1,1 @@
+locator=By.id('et_register_phone_number')

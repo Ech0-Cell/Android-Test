@@ -1,0 +1,1 @@
+locator=By.id('label_UpdatedBalance')
